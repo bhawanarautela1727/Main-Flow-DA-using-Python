@@ -1,0 +1,6 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,studytime,failures,absences,G1,G2,G3
+GP,F,18,U,GT3,A,4,4,2,0,6,5,6,6
+GP,F,17,U,GT3,T,1,1,2,0,4,5,5,6
+GP,F,15,U,LE3,T,1,1,2,3,10,7,8,10
+GP,F,15,U,GT3,T,4,2,3,0,2,15,14,15
+GP,M,16,U,LE3,T,3,2,2,0,4,6,10,10
